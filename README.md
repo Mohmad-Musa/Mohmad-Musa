@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohamad Musa
 
-I'm a Full Stack Developer based in Dubai with over 3 years of experience building fast, scalable, and user-friendly web applications using the **MERN stack** and modern front-end tools. I love solving real problems through clean code, performance optimization, and intuitive UI/UX.
+I'm a Passionate Full Stack Developer based in Dubai with over 3 years of experience building fast, scalable, and user-friendly web applications using the **MERN stack** and modern front-end tools. I love solving real problems through clean code, performance optimization, and intuitive UI/UX.
 
 ---
 
