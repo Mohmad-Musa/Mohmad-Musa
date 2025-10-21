@@ -11,12 +11,18 @@ I'm a Passionate Full Stack Developer based in Dubai with over 3 years of experi
 - TailwindCSS, Material-UI, GSAP, Three.js
 
 **Backend**
-- Node.js, Express.js, MongoDB, PostgreSQL
-- REST APIs, JWT, OAuth, Auth.js, Babel
+- Node.js, Nest.js, Express.js, MongoDB, PostgreSQL, GraphQL
+- REST APIs, JWT, OAuth, Auth.js, Babel, Redis
+
+**AI/ML**
+- Python, FastAPI, Hugging Face Transformers, Gemini API, 
+- OpenAI ChatGPT API, Pandas, NumPy,
+- scikit-learn, ML model deployment (Docker + AWS)
 
 **DevOps & Tools**
-- AWS S3, Git, GitHub, CI/CD, Vercel, Netlify
+- AWS S3, Git, GitHub, CI/CD, Vercel
 - Socket.io, Context API, React Testing Library
+
 
 ---
 
