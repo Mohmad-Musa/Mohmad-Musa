@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Mohamad Musa
 
-I'm a Passionate Full Stack Developer based in Dubai with over 3 years of experience building fast, scalable, and user-friendly web applications using the **MERN stack** and modern front-end tools. I love solving real problems through clean code, performance optimization, and intuitive UI/UX.
+ Full-stack developer (3+ years) delivering web applications and platforms with Next.js, React, Nest.js,
+ Node.js, PostgreSQL, Redis, Docker, Python, and FastAPI. I design resilient microservices and user
+ friendly UIs, improving latency, uptime, and developer velocity. Comfortable with AWS & CI/CD, I write
+ clean, testable code and collaborate tightly with product/design. Based in Dubai, open to remote.
 
 ---
 
